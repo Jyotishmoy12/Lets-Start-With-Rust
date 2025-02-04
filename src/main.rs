@@ -13,3 +13,17 @@ fn main() {
 
     println!("You guessed: {guess}");
 }
+
+
+
+// fn main() {
+//     // let age = 24;
+//     // // variables are immutable by default in rust
+//     // age = 25;
+
+//     // mutable variables 
+//     let mut age2=24;
+//     age2 = 25;
+//     println!("age2 is {age2}");
+//     // println!("My age is {age}")
+// }
