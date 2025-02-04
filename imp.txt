@@ -1,0 +1,13 @@
+cargo new hello_cargo --> to initialize a project 
+cargo build --> to build the program and we dont push target folder to git
+cargo run --> to run the program and build the project
+cargo check --> to check the code for errors without building the program
+cargo build --release --> to build the program in release mode
+card add rand --> to install the package we will use add
+
+to generate random number we will use rand crate
+ rand crate uses external library
+
+
+what is crate?
+--> collection of rust source code files
