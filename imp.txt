@@ -4,6 +4,8 @@ cargo run --> to run the program and build the project
 cargo check --> to check the code for errors without building the program
 cargo build --release --> to build the program in release mode
 card add rand --> to install the package we will use add
+cargo doc --open --> to open the documentation for the package we will use
+cargo fmt -> to format the code
 
 to generate random number we will use rand crate
  rand crate uses external library
